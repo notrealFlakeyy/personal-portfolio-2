@@ -162,12 +162,14 @@ hr {
     display: flex;
     justify-content: center;
     flex-direction: column;
+    margin-bottom: 2rem;
 }
 
 #project2 {
     display: flex;
     justify-content: center;
     flex-direction: column;
+    margin-bottom: 2rem;
 }
 
 #project3 {
